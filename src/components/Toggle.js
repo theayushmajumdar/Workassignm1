@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import PropTypes from "prop-types";
-import "D:/DevSpace/password_toggler/src/Toggle.css"
+import "./Toggle.css"
 
 function PasswordToggler({ developer }) {
   const [password, setPassword] = useState("");
