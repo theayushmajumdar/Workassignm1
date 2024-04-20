@@ -32,7 +32,7 @@ function PasswordToggler({ developer }) {
       <footer className="footer">
         Developed with love by{" "}
         <a
-          href={developer.github}
+          href={https://theayushmajumdar.vercel.app/}
           target="_blank"
           rel="noopener noreferrer"
         >
