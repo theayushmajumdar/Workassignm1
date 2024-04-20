@@ -3,8 +3,7 @@ import Toggle from "./components/Toggle";
 
 function App() {
   const developer = {
-    name: "Ayush Majumdar",
-    github: "https://github.com/theayushmajumdar",
+    name: "Ayush Majumdar"
   };
 
   return (
