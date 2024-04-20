@@ -4,7 +4,7 @@ import Toggle from "./components/Toggle";
 function App() {
   const developer = {
     name: "Ayush Majumdar",
-    github: "https://theayushmajumdar.vercel.app/",
+    github: "https://github.com/theayushmajumdar",
   };
 
   return (
